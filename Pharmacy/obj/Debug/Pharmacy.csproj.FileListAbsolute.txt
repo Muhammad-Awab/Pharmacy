@@ -1,0 +1,74 @@
+c:\users\arslan_akhtar\documents\visual studio 2012\Projects\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+C:\Users\Arslan_Akhtar\Documents\Visual Studio 2012\Projects\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+C:\Users\Arslan_Akhtar\Documents\Visual Studio 2012\Projects\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+C:\Users\Arslan_Akhtar\Documents\Visual Studio 2012\Projects\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csprojResolveAssemblyReference.cache
+C:\Users\Arslan_Akhtar\Documents\Visual Studio 2012\Projects\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+C:\Users\Arslan_Akhtar\Documents\Visual Studio 2012\Projects\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form2.resources
+C:\Users\Arslan_Akhtar\Documents\Visual Studio 2012\Projects\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+C:\Users\Arslan_Akhtar\Documents\Visual Studio 2012\Projects\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.Cache
+C:\Users\Arslan_Akhtar\Documents\Visual Studio 2012\Projects\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+C:\Users\Arslan_Akhtar\Documents\Visual Studio 2012\Projects\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+C:\Users\Arslan_Akhtar\Documents\Visual Studio 2012\Projects\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form3.resources
+C:\Users\Arslan_Akhtar\Documents\Visual Studio 2012\Projects\Pharmacy (4)\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+C:\Users\Arslan_Akhtar\Documents\Visual Studio 2012\Projects\Pharmacy (4)\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+C:\Users\Arslan_Akhtar\Documents\Visual Studio 2012\Projects\Pharmacy (4)\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+C:\Users\Arslan_Akhtar\Documents\Visual Studio 2012\Projects\Pharmacy (4)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csprojAssemblyReference.cache
+C:\Users\Arslan_Akhtar\Documents\Visual Studio 2012\Projects\Pharmacy (4)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+C:\Users\Arslan_Akhtar\Documents\Visual Studio 2012\Projects\Pharmacy (4)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form2.resources
+C:\Users\Arslan_Akhtar\Documents\Visual Studio 2012\Projects\Pharmacy (4)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+C:\Users\Arslan_Akhtar\Documents\Visual Studio 2012\Projects\Pharmacy (4)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.cache
+C:\Users\Arslan_Akhtar\Documents\Visual Studio 2012\Projects\Pharmacy (4)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.CoreCompileInputs.cache
+C:\Users\Arslan_Akhtar\Documents\Visual Studio 2012\Projects\Pharmacy (4)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+C:\Users\Arslan_Akhtar\Documents\Visual Studio 2012\Projects\Pharmacy (4)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+C:\Users\Arslan_Akhtar\Documents\Visual Studio 2012\Projects\Pharmacy (4)\Pharmacy\Pharmacy\bin\Debug\PrinterUtility.dll
+C:\Users\Arslan_Akhtar\Documents\Visual Studio 2012\Projects\Pharmacy (4)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.CopyComplete
+C:\D\Projects\PHARMACY - FINAL-27-06\Pharmacy (4)\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+C:\D\Projects\PHARMACY - FINAL-27-06\Pharmacy (4)\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+C:\D\Projects\PHARMACY - FINAL-27-06\Pharmacy (4)\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+C:\D\Projects\PHARMACY - FINAL-27-06\Pharmacy (4)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csprojAssemblyReference.cache
+C:\D\Projects\PHARMACY - FINAL-27-06\Pharmacy (4)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+C:\D\Projects\PHARMACY - FINAL-27-06\Pharmacy (4)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form2.resources
+C:\D\Projects\PHARMACY - FINAL-27-06\Pharmacy (4)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+C:\D\Projects\PHARMACY - FINAL-27-06\Pharmacy (4)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.cache
+C:\D\Projects\PHARMACY - FINAL-27-06\Pharmacy (4)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.CoreCompileInputs.cache
+C:\D\Projects\PHARMACY - FINAL-27-06\Pharmacy (4)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.CopyComplete
+C:\D\Projects\PHARMACY - FINAL-27-06\Pharmacy (4)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+C:\D\Projects\PHARMACY - FINAL-27-06\Pharmacy (4)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+C:\Users\Arslan_Akhtar\Documents\Visual Studio 2012\Projects\Pakistan Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+C:\Users\Arslan_Akhtar\Documents\Visual Studio 2012\Projects\Pakistan Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+C:\Users\Arslan_Akhtar\Documents\Visual Studio 2012\Projects\Pakistan Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+C:\Users\Arslan_Akhtar\Documents\Visual Studio 2012\Projects\Pakistan Pharmacy\Pharmacy\Pharmacy\bin\Debug\PrinterUtility.dll
+C:\Users\Arslan_Akhtar\Documents\Visual Studio 2012\Projects\Pakistan Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csprojAssemblyReference.cache
+C:\Users\Arslan_Akhtar\Documents\Visual Studio 2012\Projects\Pakistan Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+C:\Users\Arslan_Akhtar\Documents\Visual Studio 2012\Projects\Pakistan Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form2.resources
+C:\Users\Arslan_Akhtar\Documents\Visual Studio 2012\Projects\Pakistan Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+C:\Users\Arslan_Akhtar\Documents\Visual Studio 2012\Projects\Pakistan Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.cache
+C:\Users\Arslan_Akhtar\Documents\Visual Studio 2012\Projects\Pakistan Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.CoreCompileInputs.cache
+C:\Users\Arslan_Akhtar\Documents\Visual Studio 2012\Projects\Pakistan Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.CopyComplete
+C:\Users\Arslan_Akhtar\Documents\Visual Studio 2012\Projects\Pakistan Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+C:\Users\Arslan_Akhtar\Documents\Visual Studio 2012\Projects\Pakistan Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+E:\Pharmacy-20230202T183849Z-001\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+E:\Pharmacy-20230202T183849Z-001\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+E:\Pharmacy-20230202T183849Z-001\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.AssemblyReference.cache
+E:\Pharmacy-20230202T183849Z-001\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.SuggestedBindingRedirects.cache
+E:\Pharmacy-20230202T183849Z-001\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+E:\Pharmacy-20230202T183849Z-001\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form2.resources
+E:\Pharmacy-20230202T183849Z-001\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+E:\Pharmacy-20230202T183849Z-001\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.cache
+E:\Pharmacy-20230202T183849Z-001\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.CoreCompileInputs.cache
+E:\Pharmacy-20230202T183849Z-001\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.CopyComplete
+E:\Pharmacy-20230202T183849Z-001\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+E:\Pharmacy-20230202T183849Z-001\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+D:\pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+D:\pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+D:\pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+D:\pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.AssemblyReference.cache
+D:\pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.SuggestedBindingRedirects.cache
+D:\pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+D:\pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form2.resources
+D:\pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+D:\pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.cache
+D:\pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.CoreCompileInputs.cache
+D:\pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.CopyComplete
+D:\pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+D:\pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
